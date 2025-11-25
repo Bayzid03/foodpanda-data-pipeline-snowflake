@@ -8,7 +8,7 @@ to support the end-to-end data pipeline.
 use role data_engineer;
 
 -- Create a dedicated warehouse for Foodpanda pipeline workloads
-create warehouse if not exists foodpanda_db
+create warehouse if not exists foodpanda_wh
     comment = 'Warehouse for Foodpanda data pipeline'
     warehouse_size = 'x-small'
     auto_resume = true
@@ -19,6 +19,9 @@ create warehouse if not exists foodpanda_db
     max_cluster_count = 1
     scaling_policy = 'standard'
     initially_suspended = true;
+
+create database if not exists foodpanda_db;
+use database foodpanda_db;
 
 -- Create database schemas following medallion architecture
 create schema if not exists raw;       -- staging layer
