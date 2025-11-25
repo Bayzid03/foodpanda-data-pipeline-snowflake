@@ -1,0 +1,6 @@
+LocationID,City,State,ZipCode,ActiveFlag,CreatedDate,ModifiedDate
+1,Dhaka,Dhaka,1207,Yes,2024-11-02 22:06:18
+2,Chattogram,Chattogram,4000,No,2024-11-02 22:06:18
+3,Sylhet,Sylhet,3100,No,2024-11-02 22:06:18
+4,Khulna,Khulna,9100,No,2024-11-02 22:06:18
+5,Rajshahi,Rajshahi,6000,No,2024-11-02 22:06:18
