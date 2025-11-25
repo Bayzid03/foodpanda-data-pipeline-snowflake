@@ -1,0 +1,13 @@
+MenuID,RestaurantID,ItemName,Description,Price,Category,Availability,ItemType,CreatedDate,ModifiedDate
+1,1,Kacchi Biryani,Fragrant basmati rice cooked with marinated mutton and spices.,250,Bangladeshi,True,Non-Veg,2023-11-03 14:21:17.671187,2024-06-03 14:21:17.673806
+2,1,Beef Rezala,Slow-cooked beef in a yogurt-based gravy with subtle spices.,220,Bangladeshi,True,Non-Veg,2023-11-03 14:21:17.673857,2024-08-03 14:21:17.673888
+3,2,Shutki Curry,Dried fish curry cooked with mustard oil and green chilies.,180,Bangladeshi,True,Non-Veg,2023-11-03 14:21:17.673921,2024-08-03 14:21:17.673950
+4,2,Borhani,"Traditional spiced yogurt drink served with biryani.",90,Beverages,True,Veg,2023-11-03 14:21:17.673980,2024-07-03 14:21:17.674007
+5,2,Coconut Water,Fresh tender coconut water served chilled.,70,Beverages,True,Vegan,2023-11-03 14:21:17.674037,2024-06-03 14:21:17.674067
+6,2,Cold Coffee,Iced coffee blended with milk and sugar.,150,Cafe,True,Veg,2023-11-03 14:21:17.674097,2024-08-03 14:21:17.674123
+7,2,Lemon Mint Soda,Refreshing soda with lemon juice and mint.,120,Beverages,True,Veg,2023-11-03 14:21:17.674152,2024-08-03 14:21:17.674178
+8,3,Shorshe Ilish,Hilsa fish cooked in mustard seed paste and mustard oil.,350,Bangladeshi,True,Gluten-Free,2023-11-03 14:21:17.674208,2024-06-03 14:21:17.674234
+9,4,Chicken Curry,Classic Bangladeshi chicken curry with potatoes and spices.,280,Bangladeshi,True,Non-Veg,2023-11-03 14:21:17.674266,2024-08-03 14:21:17.674292
+10,5,Rasgulla,Soft spongy cheese balls soaked in sugar syrup.,150,Desserts,True,Veg,2023-11-03 14:21:17.674321,2024-06-03 14:21:17.674347
+11,5,Mishti Doi,Sweetened yogurt served chilled.,120,Desserts,True,Gluten-Free,2023-11-03 14:21:17.674375,2024-07-03 14:21:17.674401
+12,5,Firni,Traditional rice pudding flavored with cardamom and saffron.,180,Desserts,True,Veg,2023-11-03 14:21:17.674429,2024-06-03 14:21:17.674455

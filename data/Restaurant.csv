@@ -1,0 +1,6 @@
+RestaurantID,Name,CuisineType,Pricing_for_2,Restaurant_Phone,OperatingHours,LocationID,ActiveFlag,OpenStatus,Locality,Restaurant_Address,Latitude,Longitude,CreatedDate,ModifiedDate
+1,Star Kabab,"Bangladeshi, Street Food, Kebabs, Beverages",800,01711000001,8:00 AM - 16:00 PM,1,Yes,Open,"Dhanmondi, Dhaka","Road 2, Dhanmondi, Dhaka",23.746466,90.376015,2020-10-07 20:19:43.902836,2024-08-14 18:03:26.315582
+2,Kacchi Bhai,"Bangladeshi, Biryani, Mughlai, Beverages",1200,01711000002,10:00 AM - 18:00 PM,1,Yes,Open,"Gulshan, Dhaka","House 12, Road 53, Gulshan-2, Dhaka",23.792500,90.407800,2020-05-22 10:40:09.631036,2023-12-15 10:15:48.123670
+3,Panshi Restaurant,"Bangladeshi, Sylheti, Deshi, Desserts",1500,01711000003,9:00 AM - 17:00 PM,3,Yes,Open,"Zindabazar, Sylhet","Zindabazar, Sylhet City",24.891700,91.868700,2020-09-09 08:19:49.487677,2023-11-13 22:18:47.623166
+4,Mezbaan Bari,"Chattogram, Asian, Curry, Salad",1600,01711000004,11:00 AM - 19:00 PM,2,Yes,Open,"Agrabad, Chattogram","Agrabad Commercial Area, Chattogram",22.335000,91.832500,2020-11-07 00:44:52.824312,2023-11-19 10:08:47.342571
+5,Café Mango,"Continental, Fusion, Italian",1800,01711000005,9:00 AM - 17:00 PM,1,Yes,Open,"Banani, Dhaka","House 11, Road 27, Banani, Dhaka",23.793200,90.404300,2020-11-11 19:43:11.251732,2024-04-29 12:32:50.364449

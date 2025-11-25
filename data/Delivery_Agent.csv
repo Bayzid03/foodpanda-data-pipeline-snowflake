@@ -1,0 +1,6 @@
+DeliveryAgentID,Name,Phone,VehicleType,LocationID,Status,Gender,Rating,CreatedDate,ModifiedDate
+1,Sajedul Islam,01711000011,Motorbike,1,Active,Male,4.3,2023-12-30 15:44:39.078722,2024-05-14 15:44:39.078722
+2,Nusrat Akter,01822000022,Scooter,1,Inactive,Female,4.7,2023-11-14 15:44:39.078754,2024-03-29 15:44:39.078754
+3,Mehedi Hasan,01933000033,Scooter,1,Inactive,Male,5.0,2023-12-11 15:44:39.078776,2024-04-17 15:44:39.078776
+4,Tamanna Akter,01644000044,Motorbike,1,Inactive,Female,4.2,2023-12-07 15:44:39.078798,2024-04-17 15:44:39.078798
+5,Abdul Karim,01555000055,Scooter,1,Active,Male,4.9,2023-12-23 15:44:39.078820,2024-04-05 15:44:39.078820

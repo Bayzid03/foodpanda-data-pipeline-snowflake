@@ -1,0 +1,6 @@
+"AddressID","CustomerID","FlatNo","HouseNo","Floor","Building","Landmark","Locality","City","State","Pincode","Coordinates","PrimaryFlag","AddressType","CreatedDate","ModifiedDate"
+"1","1","47","93","9","Lake View Residency","Near Dhanmondi Lake","Dhanmondi","Dhaka","Dhaka","1209","23.746466,90.376015","Yes","Other","2019-10-29T07:19:58","2019-11-25T07:19:58"
+"2","2","3","94","3","Gulshan Heights","Near Gulshan Circle 2","Gulshan","Dhaka","Dhaka","1212","23.792500,90.407800","Yes","Other","2019-03-12T21:24:02","2019-03-26T21:24:02"
+"3","3","13","92","9","Sylhet View Apartments","Beside Shahjalal University","Zindabazar","Sylhet","Sylhet","3100","24.891700,91.868700","Yes","Work","2022-05-27T05:46:19","2022-06-10T05:46:19"
+"4","4","11","40","10","Agrabad Tower","Next to World Trade Center","Agrabad","Chattogram","Chattogram","4000","22.335000,91.832500","Yes","Home","2021-08-14T11:20:28","2021-09-08T11:20:28"
+"5","5","83","96","5","Rajshahi Residency","Close to Shaheb Bazar","Shaheb Bazar","Rajshahi","Rajshahi","6000","24.374000,88.604200","No","Other","2021-10-16T17:50:34","2021-11-04T17:50:34"
