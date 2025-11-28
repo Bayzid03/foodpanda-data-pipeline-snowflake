@@ -36,7 +36,6 @@ comment = 'Raw customer address table populated from staged CSV files with audit
 -- Create stream on raw table
 create or replace stream raw.customeraddress_stream 
 on table raw.customeraddress
-append = true
 comment = 'Stream to track inserts/updates in raw.customeraddress for downstream processing.';
 
 -- Copy data from staged CSV into raw.customeraddress
