@@ -30,7 +30,7 @@ select * from raw.Location;
 -- Create stream on the raw table to capture incremental changes
 create or replace stream raw.Location_stream 
 on table raw.Location
-append = true
+append_only = true
 comment = 'Stream to track inserts/updates in raw.Location for downstream processing.';
 
 -- Copy data from internal stage into raw.Location
