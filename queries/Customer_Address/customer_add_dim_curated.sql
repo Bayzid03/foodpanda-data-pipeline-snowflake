@@ -37,7 +37,6 @@ comment = 'Curated customer address table with standardized datatypes and audit 
 -- Create stream on curated table
 create or replace stream curated.customeraddress_stream 
 on table curated.customer_address
-append_only = true
 comment = 'Stream to track inserts/updates in curated.customer_address for enrichment.';
 
 -- Merge raw stream data into curated table
